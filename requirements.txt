@@ -1,4 +1,4 @@
-scipy==1.4.1
+scipy==1.10.0
 plotly==4.8.1
 numpy==1.18.5
 beautifulsoup4==4.9.1
